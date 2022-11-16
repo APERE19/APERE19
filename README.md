@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @APERE19
+- 👀 I’m interested in Coding, Scripting, Modeling, Developing Games and Exploit Executors
+- 🌱 I’m currently learning Lua, LuaC, LuaU, Java+, and Python
+- 💞️ I’m looking to collaborate on Exploit Executors like Roblox, and Minecraft.
+- 📫 How to reach me? Heres my email where you can contact me lm836150@gmail.com
